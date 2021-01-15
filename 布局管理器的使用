@@ -64,7 +64,7 @@ class Window(QWidget):
 
         # layout.insertLayout(2, h_layout)
 
-        label1.hide()
+        #label1.hide()
         label1.show()
 
         # layout.removeWidget(label1)
